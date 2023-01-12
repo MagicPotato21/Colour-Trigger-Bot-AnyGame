@@ -11,6 +11,7 @@ Setup.
 2. Open Cmd 
 
 3.Type pip install keyboard
+
 time
 ctypes
 Pillow
