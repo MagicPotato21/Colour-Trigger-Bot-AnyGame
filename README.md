@@ -5,8 +5,11 @@ Colour Triggerbot for Any Game UnDetected
 How To Install /Setup
 
 Setup.
+
 1.Download Python
+
 2. Open Cmd 
+
 3.Type pip install keyboard
 time
 ctypes
